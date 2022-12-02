@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mitchelle Njoki</h1>
 <h3 align="center">A passionate fullStack developer</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **C**
 
 - 💬 Ask me about **Javascript, React, Ruby, Ruby on Rails,**
 
