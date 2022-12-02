@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Olivia Adongo</h1>
+<h1 align="center">Hi 👋, I'm Mitchelle Njoki</h1>
 <h3 align="center">A passionate fullStack developer</h3>
 
 - 🌱 I’m currently learning **React**
